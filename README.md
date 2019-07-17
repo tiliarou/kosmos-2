@@ -1,5 +1,9 @@
 # kosmos-2
 
+<p align="center">
+<a href="https://github.com/gaavin/kosmos-2/releases">
+<img src="https://i.imgur.com/iC4hZkm.png"></a>
+<br> 
 
   If you are looking for Kosmos, this is Kosmos' safer and way more extended evolution.
   If you are a current Kosmos user, you need Kosmos 2!
